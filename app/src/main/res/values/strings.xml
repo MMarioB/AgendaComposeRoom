@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AgendaComposeRoom</string>
+    <string name="users">users</string>
+    <string name="add_user">Add User</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+</resources>
